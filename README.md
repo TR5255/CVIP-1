@@ -1,2 +1,2 @@
 # Computer Vision and Image Processing - Assignment 1 
-
+This is the github repository for the assignment given. It consists of a python notebook which consists of the various linear and non linear filters applied to a random image sample taken from a chest X-Ray segmentation dataset. The image is subjected to various segmentation methods like K-means, Mean Shift Segmentation, Felzenszwalb Graph Segmentation. The region-growing algorithm with connected component analysis is seperately implemented and its code is also shared in this repository. All the segmentation algorithms are compared with the following metrics: IoU, Dice Coefficient, Pixel Accuracy, Precision, and Recall.
